@@ -1,0 +1,29 @@
+h1 {
+  color: #bc6b6b;
+  font-size: 42px;
+  font-weight: 100;
+  font-family: 'Arial, Helvetica, sans-serif';
+}
+.lid {
+  color: aliceblue;
+}
+#main_header {
+  color: crimson;
+}
+div {
+  width: 200px;
+  height: 200px;
+  background-color: brown;
+  border: radius 100px;
+}
+.red {
+  background-color: red;
+}
+.gold {
+  background-color: gold;
+  margin-top: 20px;
+  margin: left 20px;
+}
+.green {
+  background-color: green;
+}
